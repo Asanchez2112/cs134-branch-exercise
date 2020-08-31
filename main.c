@@ -2,5 +2,5 @@ include <studio.h>
 
 int main(int argc, char **argv)
 {
-	printf("Hello, World\n");
+	printf("Goodbye, Cruel world\n");
 }
